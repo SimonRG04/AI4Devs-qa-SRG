@@ -1,0 +1,23 @@
+[
+  {
+    "candidateId": 1,
+    "fullName": "Juan Pérez",
+    "currentInterviewStep": "Aplicación",
+    "averageScore": 3,
+    "applicationId": 101
+  },
+  {
+    "candidateId": 2,
+    "fullName": "Ana García",
+    "currentInterviewStep": "Entrevista Técnica",
+    "averageScore": 4,
+    "applicationId": 102
+  },
+  {
+    "candidateId": 3,
+    "fullName": "Carlos López",
+    "currentInterviewStep": "Entrevista RRHH",
+    "averageScore": 5,
+    "applicationId": 103
+  }
+] 
